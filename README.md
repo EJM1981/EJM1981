@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EJM1981
 - 👀 I’m interested in programming, data base management, cloud computing and technology overall.
-- 🌱 I’m currently learning JS, Java SQL.
+- 🌱 I’m currently learning JS, Java and SQL.
 - 💞️ I’m looking to collaborate on anything that will help my learning process.
 - 📫 How to reach me eslin.martinez@gmail.com
 
